@@ -1,2 +1,3 @@
 # hello-world
-The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
+Open-source Geospatial focused, GIS Certificate, MS Environmental Science. 
+One of the top 10% of Geospatial Professionals in Colorado.
